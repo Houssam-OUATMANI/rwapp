@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rwapp/static/css/main.feb3c0a6.chunk.css",
-    "main.js": "/rwapp/static/js/main.b85d0083.chunk.js",
-    "main.js.map": "/rwapp/static/js/main.b85d0083.chunk.js.map",
+    "main.js": "/rwapp/static/js/main.71c810b2.chunk.js",
+    "main.js.map": "/rwapp/static/js/main.71c810b2.chunk.js.map",
     "runtime-main.js": "/rwapp/static/js/runtime-main.c3116508.js",
     "runtime-main.js.map": "/rwapp/static/js/runtime-main.c3116508.js.map",
     "static/js/2.9cb2e756.chunk.js": "/rwapp/static/js/2.9cb2e756.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c3116508.js",
     "static/js/2.9cb2e756.chunk.js",
     "static/css/main.feb3c0a6.chunk.css",
-    "static/js/main.b85d0083.chunk.js"
+    "static/js/main.71c810b2.chunk.js"
   ]
 }
