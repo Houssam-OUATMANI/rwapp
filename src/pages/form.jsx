@@ -12,7 +12,7 @@ export default function Form() {
 	async function letTheMagieHappen(e) {
 		e.preventDefault()
 		const inputValue = inputRef.current.value
-		const URL = `http://api.openweathermap.org/data/2.5/weather?q=${inputValue}&units=metric&appid=200b01d1422a0be035b2231349dd26ae`
+		const URL = `https://api.openweathermap.org/data/2.5/weather?q=${inputValue}&units=metric&appid=200b01d1422a0be035b2231349dd26ae`
 		const response = await fetch(URL)
 		const data = await response.json()
 		if(response.ok){
